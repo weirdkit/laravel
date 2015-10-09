@@ -10,7 +10,9 @@ use Monolog\Logger;
 class LoggerServiceProvider extends ServiceProvider
 {
     /**
-     * @inheritdoc
+     * Register the application services.
+     *
+     * @return void
      */
     public function register()
     {
