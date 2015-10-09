@@ -1,0 +1,24 @@
+# IDE
+.idea
+.phpstorm.meta.php
+_ide_helper.php
+
+# MacOS
+.DS_Store
+
+# NPM
+/node_modules
+/npm-debug.log
+
+# Composer
+/vendor
+
+# Laravel
+.env
+
+# Homestead
+Homestead.yaml
+
+# Assets
+public/!
+!public/index.php

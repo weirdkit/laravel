@@ -1,0 +1,3 @@
+## Weirdkit Laravel
+
+Application skeleton
