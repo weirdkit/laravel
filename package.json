@@ -1,3 +1,11 @@
 {
-  
+  "name": "weirdkit-laravel-skeleton",
+  "private": true,
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-env": "^0.2.0",
+    "gulp-load-plugins": "^0.10.0",
+    "webpack": "^1.12.2",
+    "webpack-dev-server": "^1.12.0"
+  }
 }

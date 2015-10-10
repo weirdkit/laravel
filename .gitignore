@@ -13,8 +13,9 @@ _ide_helper.php
 # Composer
 /vendor
 
-# Laravel
+# Application environment
 .env
+.env.json
 
 # Homestead
 Homestead.yaml
