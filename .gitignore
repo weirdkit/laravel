@@ -10,7 +10,7 @@ _ide_helper.php
 /node_modules
 /npm-debug.log
 
-# Composer
+# Vendors
 /vendor
 
 # Application environment
