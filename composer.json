@@ -1,8 +1,9 @@
 {
-  "name": "laravel/laravel",
-  "description": "The Laravel Framework.",
+  "name": "weirdkit/laravel-skeleton",
+  "description": "Weirdkit laravel application skeleton",
   "keywords": [
-    "framework",
+    "weirdkit",
+    "skeleton",
     "laravel"
   ],
   "license": "MIT",
